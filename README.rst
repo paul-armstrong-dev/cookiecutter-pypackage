@@ -12,7 +12,7 @@ Cookiecutter PyPackage
 
 Cookiecutter_ template for a Python package.
 
-* GitHub repo: https://github.com/paul-armstrong-dev/cookiecutter-pypackage 
+* GitHub repo: https://github.com/paul-armstrong-dev/cookiecutter-pypackage
 * Documentation: https://cookiecutter-pypackage.readthedocs.io/
 * Free software: BSD license
 
@@ -20,7 +20,6 @@ Features
 --------
 
 * Testing setup with ``unittest`` and ``python setup.py test`` or ``pytest``
-* Travis-CI_: Ready for Travis Continuous Integration testing
 * Tox_ testing: Setup to easily test for Python 3.6, 3.7, 3.8
 * Sphinx_ docs: Documentation ready for generation with, for example, `Read the Docs`_
 * bump2version_: Pre-configured version bumping with a single command
