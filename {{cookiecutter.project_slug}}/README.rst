@@ -42,6 +42,3 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 
-And upgraded with some of the ideas from this Package_.
-
-.. _Package: https://github.com/ardydedase/cookiecutter-pypackage
